@@ -14,7 +14,7 @@ Welcome to my 3D Portfolio application! This project showcases my skills, experi
 ---
 
 ## **Live Demo**
-Check out the live version of the portfolio [here](https://portfolio-website-gso8wfkv0-sharad-chandra-reddys-projects.vercel.app/).
+Check out the live version of the portfolio [here](https://portfolio-scr.vercel.app/).
 
 ---
 
