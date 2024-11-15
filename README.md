@@ -45,8 +45,7 @@ Check out the live version of the portfolio [here](https://portfolio-website-gso
 
 ## **Contact**
 Feel free to connect with me via:
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile) *(Replace with your actual profile link)*
+- **Email**: [sharadreddy11@gmail.com]
 
 ---
 
