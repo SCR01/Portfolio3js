@@ -25,7 +25,6 @@ Check out the live version of the portfolio [here](https://portfolio-scr.vercel.
 
 
 
-
 ---
 
 ## **Technologies Used**
@@ -36,10 +35,6 @@ Check out the live version of the portfolio [here](https://portfolio-scr.vercel.
 - **Email Integration**: emailjs-com
 
 ---
-
-## **Getting Started**
-
-*(Follow the same setup steps as before)*
 
 ---
 
