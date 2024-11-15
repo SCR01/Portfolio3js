@@ -152,7 +152,7 @@ export const projects = [
         iconUrl: snapgram,  // Add appropriate icon URL here
         theme: 'btn-back-blue', // Set your preferred theme
         name: 'Flood Guard:Yi-IDS4',
-        description: 'Developed a Flood Guard system to give alert from the flood in various areas all over the country.',
+        description: 'Developed a Flood Guard system to provide real-time alerts for flood occurrences across various regions nationwide.',
         link: 'https://github.com/SCR01/TeamPrithvi_Yi-IDS4-main',
     },
     {
