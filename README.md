@@ -14,7 +14,7 @@ Welcome to my 3D Portfolio application! This project showcases my skills, experi
 ---
 
 ## **Live Demo**
-Check out the live version of the portfolio [here](https://portfolio-website-gso8wfkv0-sharad-chandra-reddys-projects.vercel.app/).
+Check out the live version of the portfolio [here](https://portfolio-scr.vercel.app/).
 
 ---
 
@@ -22,7 +22,6 @@ Check out the live version of the portfolio [here](https://portfolio-website-gso
 ![image](https://github.com/user-attachments/assets/258acea5-4f23-42ce-b459-fd42a14dfb8d)
 
 ![image](https://github.com/user-attachments/assets/ca3751a4-6fdc-4908-8828-2bdbba04b7a9)
-
 
 
 
@@ -36,10 +35,6 @@ Check out the live version of the portfolio [here](https://portfolio-website-gso
 - **Email Integration**: emailjs-com
 
 ---
-
-## **Getting Started**
-
-*(Follow the same setup steps as before)*
 
 ---
 
